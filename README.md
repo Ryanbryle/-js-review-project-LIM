@@ -1,4 +1,4 @@
-# JavaScript Review Project by write_your_full_name
+# JavaScript Review Project by Ryan Bryle E. Lim
 
 This project is a review of JavaScript concepts, from beginner to advanced.
 
